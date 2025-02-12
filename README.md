@@ -324,11 +324,7 @@ Snort
 
     Reglas personalizadas para detectar tráfico sospechoso.
     Ejemplo de regla:
-    plaintext
-     
 
-     
-    1
     alert icmp any any -> 10.0.2.2 any (msg:"Ping a Servidor Proxmox Detectado"; sid:1000001; rev:1;)
      
      
