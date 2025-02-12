@@ -1,3 +1,5 @@
+![Diagrama de la red](Infraestructura EDR.jpg)
+
 Proyecto Final: Infraestructura de Ciberseguridad con EDR  
 Índice 
 
