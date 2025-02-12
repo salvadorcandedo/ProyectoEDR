@@ -1,4 +1,6 @@
-![Diagrama de la red](Infraestructura EDR.jpg)
+<div align=center>
+  <img src="https://github.com/salvadorcandedo/ProyectoEDR/blob/main/Infraestructura%20EDR.jpg" alt="Diagrama"/>
+</div>
 
 Proyecto Final: Infraestructura de Ciberseguridad con EDR  
 Índice 
